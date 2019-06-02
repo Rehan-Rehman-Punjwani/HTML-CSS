@@ -78,6 +78,11 @@ color: white;
 	margin: 20px 0;
 }
 
+.box-2 h1{
+
+	text-transform: uppercase;
+}
+
 .categories{
 	border: 1px #ccc solid;
 	padding: 10px;
